@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Applicationsoinnernew</string>
+    <string-array name="storetype">
+        <item>住宿及餐飲業</item>
+        <item>藝術娛樂及休閒服務業</item>
+        <item>批發及零售業</item>
+        <item>資訊及通訊傳播業</item>
+        <item>金融及保險業</item>
+        <item>不動產業</item>
+        <item>營造業</item>
+        <item>運輸及倉儲業</item>
+        <item>其他服務業</item>
+    </string-array>
+</resources>
